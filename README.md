@@ -1,16 +1,8 @@
 ## Hi there 👋
 
-<!--
-**mrene42/mrene42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 <div align="center">
   <img height="150" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"  />
 </div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -18,7 +10,7 @@
 
 ###
 
-<p align="left">I'm Rene a junior web developer from Spain<br><br>🔭 I’m currently working on something cool 😉<br>🌱 I’m currently learning frontend and backend + AWS<br>💬 Ask me about HTML/CSS/JavaScript<br>⚡ Fun fact: I ❤️ coffee!☕<br>https://user-</p>
+<p align="left">I'm Rene a junior web developer from Spain<br><br>🔭 I’m currently working on something cool 😉<br>🌱 I’m currently learning frontend and backend + AWS<br>💬 Ask me about HTML/CSS/JavaScript<br>⚡ Fun fact: I ❤️ coffee!☕</p>
 
 ###
 
