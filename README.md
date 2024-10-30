@@ -14,7 +14,6 @@
 
 <p align="left">I'm Rene a junior web developer from Spain<br><br>🔭 I’m currently working on something cool 😉<br>🌱 I’m currently learning frontend and backend + AWS<br>💬 Ask me about HTML/CSS/JavaScript<br>⚡ Fun fact: I ❤️ coffee!☕</p>
 
-
 ###
 
 <div align="center">
