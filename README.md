@@ -4,13 +4,14 @@
   <img height="150" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"  />
 </div>
 
-###
+### 
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
 <p align="left">I'm Rene a junior web developer from Spain<br><br>🔭 I’m currently working on something cool 😉<br>🌱 I’m currently learning frontend and backend + AWS<br>💬 Ask me about HTML/CSS/JavaScript<br>⚡ Fun fact: I ❤️ coffee!☕</p>
+
 
 ###
 
@@ -21,6 +22,11 @@
 </div>
 
 ###
+
+![gif-gatito-girando](https://github.com/user-attachments/assets/b3ec4561-e5fd-448f-9b06-0e3724b5408a)
+
+
+### 
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -48,7 +54,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
-###
+### 
 
 <h3 align="left">🔥   My Stats :</h3>
 
